@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">hw7</string>
+    <string name="cardTitle">Header</string>
+    <string name="subtitle">Subhead</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="feed">Feed</string>
+    <string name="profile_images">images</string>
+    <string name="profile_images_title">Images</string>
+    <string name="profile_subscribers">subscribers</string>
+    <string name="profile_posts">posts</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="edit">Edit</string>
+    <string name="logout">logout</string>
+    <string name="title_auth">NanoPost</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_continue">Continue</string>
+    <string name="check">check</string>
+    <string name="add_image">Add image…</string>
+    <string name="delete_post">delete post</string>
+    <string name="delete_image">delete image</string>
+
+    <string name="password_is_incorrect">Password is incorrect</string>
+    <string name="username_must_be_longer_than_3_characters">Username must be longer than 3 characters</string>
+    <string name="username_must_shorter_than_16_characters">Username must be shorter than 16 characters</string>
+    <string name="username_contains_invalid_characters">Username contains invalid characters</string>
+    <string name="password_must_be_longer_than_3_characters">Password must be longer than 3 characters</string>
+    <string name="password_must_be_shorter_than_16_characters">Password must be shorter than 16 characters</string>
+    <string name="title_feed">Feed</string>
+    <string name="title_create_post">New post...</string>
+    <string name="title_images">Images</string>
+    <string name="title_post">Post</string>
+    <string name="title_profile">Profile</string>
+
+</resources>
